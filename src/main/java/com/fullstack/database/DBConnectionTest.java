@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DBConnectionTest {
     public static void main(String[] args) {
-        String url = "jdbc:mysql://localhost:3306/java_fullstack_db";
+        String url = "jdbc:mysql://localhost:3307/java_fullstack_db";
         String user = "root";
         String password = "root";  // Replace with your MySQL password
 
